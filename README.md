@@ -84,6 +84,8 @@ buka server yang sudah terlihat di CMD misal :
 http://localhost:8080
 ```
 
+<img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/c273f7bd-b64d-4315-bb6d-5b1bfbb94ab5" />
+
 ## Frontend
 Buka ```Visual Studio Code```
 
@@ -96,3 +98,5 @@ klik kanan pada laptop atau pc
 
 Kalau belum ada tulisan ```Open with Live Server``` berarti belum install extensions
 ```Live Server```
+
+<img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/fdd57e3b-c981-4f68-97cf-23f4f38bce4f" />
