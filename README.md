@@ -40,9 +40,14 @@ Berbeda dengan kategori ketika menambahkan supplier terdapat nama supplier, alam
 <img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/9acb9700-9352-4227-889d-8d93acc806ac" />
 
 ## Halaman Barang
-Semua data yang ada di halaman kategori dan supplier disatukan dihalaman ini
+Semua data yang ada di halaman kategori dan supplier di satukan di halaman ini
 
 <img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/205c3200-585c-4ce3-8852-31ce2dc1da5a" />
+
+## Instal CodeIgniter
+install xampp
+
+<img width="671" height="376" alt="image" src="https://github.com/user-attachments/assets/310b5187-5412-477c-b164-3aa48a451da9" />
 
 
 
