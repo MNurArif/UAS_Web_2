@@ -1,17 +1,15 @@
 # UAS_Web_2
 Project E_inventory Menggunakan CodeIgniter 4
 ## Database
-Saya membuat nama databasenya yaitu "e_inventory" dan berisi tabel User, Kategori, Supplier dan Barang.
-
-<img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/c3e548b1-8c53-4e5e-a67e-bc9e635589a9" />
-
-## Server
-Pastikan server di cmd harus berjalan terlebih dahulu
-```bash
-php spark serve
+```text
+Database e_inventory
+User
+Kategori
+Supplier
+Barang
 ```
 
-<img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/4f2b8cda-eeb3-4fcc-906f-1c1c825980c6" />
+<img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/c3e548b1-8c53-4e5e-a67e-bc9e635589a9" />
 
 ## API
 ini adalah Error (401) jika tidak memasukan token
@@ -24,6 +22,10 @@ Cara mendapatkan tokennya itu bisa melalui login
 
 ## Halaman Login
 Harus memasukan username dan password yang sudah di input di database (MySQL)
+```text
+username : admin
+password : admin123
+```
 
 <img width="975" height="426" alt="image" src="https://github.com/user-attachments/assets/809fea1f-82ea-46c8-bdf4-5915b361da93" />
 
@@ -49,10 +51,29 @@ Semua data yang ada di halaman kategori dan supplier di satukan di halaman ini
 
 ## Instal CodeIgniter
 Pastikan sudah menginstal xampp lanjut start apache dan mySQL sampai status berwarna hijau
+```bash
+https://www.apachefriends.org/download.html
+```
 
 <img width="671" height="376" alt="image" src="https://github.com/user-attachments/assets/310b5187-5412-477c-b164-3aa48a451da9" />
 
-_https://getcomposer.org/?utm_source=chatgpt.com_
+dan juga composer
+```bash
+https://getcomposer.org/
+```
 
+buka CMD
+```bash
+cd C:\xampp\htdocs
+```
+```bash
+composer create-project codeigniter4/appstarter nama-project
+```
 
+## Server
+Pastikan server di cmd harus berjalan terlebih dahulu
+```bash
+php spark serve
+```
 
+<img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/4f2b8cda-eeb3-4fcc-906f-1c1c825980c6" />
