@@ -85,18 +85,14 @@ http://localhost:8080
 ```
 
 ## Frontend
-Buka ```ini
-Visual Studio Code```
+Buka ```Visual Studio Code```
 
-Buka file ```ini 
-index.html ```
+Buka file ```index.html```
 
 klik kanan pada laptop atau pc
-```ini
-Open with Live Server```
+```Open with Live Server```
 
 <img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/f59977ed-df4f-4a03-9c5f-420418de1430" />
 
-Kalau belum ada tulisan **Open with Live Server** berarti belum install extensions
-```ini
-Live Server```
+Kalau belum ada tulisan ```Open with Live Server``` berarti belum install extensions
+```Live Server```
