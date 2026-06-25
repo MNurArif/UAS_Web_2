@@ -15,7 +15,6 @@ ini adalah Error (401) jika tidak memasukan token
 
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/c31d16a3-1624-4ee9-88d0-f862647c3a2b" />
 
-
 Cara mendapatkan tokennya itu bisa melalui login
 
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/4f77463b-f0cb-4a90-980c-06b531d1232e" />
@@ -33,12 +32,12 @@ Disini Terdapat Kategori, Supplier, Barang dan Logout
 ## Halaman Kategori
 Bisa menambah kategori lagi sesuai yang di inginkan dan untuk aksinya bisa di edit atau pun di hapus
 
-<img width="975" height="426" alt="image" src="https://github.com/user-attachments/assets/93115ae4-7c41-440c-bc0a-8e156eb434f1" />
+<img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/95449062-381a-494e-a154-da32c8cb446e" />
 
 ## Halaman Supplier
 Berbeda dengan kategori ketika menambahkan supplier terdapat nama supplier, alamat dan no.telp
 
-<img width="975" height="426" alt="image" src="https://github.com/user-attachments/assets/056532ef-705b-4eac-b2c5-76f64d310d16" />
+<img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/9acb9700-9352-4227-889d-8d93acc806ac" />
 
 ## Halaman Barang
 Semua data yang ada di halaman kategori dan supplier disatukan dihalaman ini
