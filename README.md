@@ -7,6 +7,9 @@ Saya membuat nama databasenya yaitu "e_inventory" dan berisi tabel User, Kategor
 
 ## Server
 Pastikan server di cmd harus berjalan terlebih dahulu
+```bash
+php spark serve
+```
 
 <img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/4f2b8cda-eeb3-4fcc-906f-1c1c825980c6" />
 
