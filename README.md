@@ -57,7 +57,7 @@ https://www.apachefriends.org/download.html
 
 <img width="671" height="376" alt="image" src="https://github.com/user-attachments/assets/310b5187-5412-477c-b164-3aa48a451da9" />
 
-dan juga composer
+dan install juga composer
 ```bash
 https://getcomposer.org/
 ```
@@ -66,14 +66,37 @@ buka CMD
 ```bash
 cd C:\xampp\htdocs
 ```
+ini perintah untuk menginstal seluruh file bawaan codeigniter 4
 ```bash
 composer create-project codeigniter4/appstarter nama-project
 ```
 
-## Server
-Pastikan server di cmd harus berjalan terlebih dahulu
+## Backend-API
+Jalankan
 ```bash
 php spark serve
 ```
-
+Jika Berhasil
 <img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/4f2b8cda-eeb3-4fcc-906f-1c1c825980c6" />
+
+buka server yang sudah terlihat di CMD misal :
+```ini
+http://localhost:8080
+```
+
+## Frontend
+Buka ```ini
+Visual Studio Code```
+
+Buka file ```ini 
+index.html ```
+
+klik kanan pada laptop atau pc
+```ini
+Open with Live Server```
+
+<img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/f59977ed-df4f-4a03-9c5f-420418de1430" />
+
+Kalau belum ada tulisan **Open with Live Server** berarti belum install extensions
+```ini
+Live Server```
