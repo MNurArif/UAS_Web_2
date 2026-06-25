@@ -45,9 +45,11 @@ Semua data yang ada di halaman kategori dan supplier di satukan di halaman ini
 <img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/205c3200-585c-4ce3-8852-31ce2dc1da5a" />
 
 ## Instal CodeIgniter
-install xampp
+Pastikan sudah menginstal xampp lanjut start apache dan mySQL sampai status berwarna hijau
 
 <img width="671" height="376" alt="image" src="https://github.com/user-attachments/assets/310b5187-5412-477c-b164-3aa48a451da9" />
+
+_https://getcomposer.org/?utm_source=chatgpt.com_
 
 
 
